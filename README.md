@@ -23,4 +23,4 @@ Model yang dikembangkan berhasil mencapai tingkat akurasi sebagai berikut:
 ## 🚀 Cara Menjalankan  
 1. Clone repositori ini:  
    ```bash
-   git clone https://github.com/username/repo-name.git
+   https://github.com/CloudsWinter/Klasifikasi-Tingkat-Depresi-pada-Profesional-dan-Mahasiswa-Menggunakan-Algoritma-Random-Forest.git
